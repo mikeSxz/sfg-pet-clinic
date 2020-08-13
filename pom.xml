@@ -53,7 +53,14 @@
         </plugins>
     </build>
 
-
+    <scm>
+        <connection>scm:git:ssh://git@github.com/mikeSxz/sfg-pet-clinic.git</connection>
+        <developerConnection>
+            scm:git:ssh://git@github.com/mikeSxz/sfg-pet-clinic.git
+        </developerConnection>
+        <url>https://github.com/mikeSxz/sfg-pet-clinic/tree/master</url>
+      <tag>sfg-pet-clinic-0.0.1</tag>
+  </scm>
 
 </project>
 
