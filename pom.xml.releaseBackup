@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>miketek.springframework</groupId>
     <artifactId>sfg-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -54,9 +54,9 @@
     </build>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com/mikeSxz/sfg-pet-clinic.git</connection>
+        <connection>scm:git:https://github.com/mikeSxz/sfg-pet-clinic.git</connection>
         <developerConnection>
-            scm:git:ssh://git@github.com/mikeSxz/sfg-pet-clinic.git
+            scm:git:https://github.com/mikeSxz/sfg-pet-clinic.git
         </developerConnection>
         <url>https://github.com/mikeSxz/sfg-pet-clinic/tree/master</url>
       <tag>sfg-pet-clinic-0.0.1</tag>
